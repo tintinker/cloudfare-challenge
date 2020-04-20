@@ -1,0 +1,6 @@
+name = "challenge"
+type = "javascript"
+account_id = "511cb59db0d2cc38fcca041847dca93a"
+workers_dev = true
+route = ""
+zone_id = ""
